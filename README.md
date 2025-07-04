@@ -32,7 +32,6 @@ The main dataset containing:
 | `Sales Revenue`| `=Quantity * Unit Price`                              |
 | `Net Profit`   | `=Sales Revenue - Total Cost`                         |
 
-📷 *Recommended: Add screenshot here*
 
 ---
 
@@ -57,7 +56,6 @@ Displays high-level metrics:
 - **Net Profit:** 514,327.55  
 - **Customers:** 555  
 
-📷 *Recommended: Add screenshot here*
 
 ---
 
@@ -66,15 +64,19 @@ Displays high-level metrics:
 This sheet includes both statistical and hypothesis testing tools:
 
 #### 📊 Descriptive Statistics:
-- Summary metrics like **mean**, **median**, **standard deviation**, **min**, and **max**.
-- Applied to key metrics like delivery time, quantity, unit price, revenue, and profit.
+- Summary metrics such as **mean**, **median**, **standard deviation**, **minimum**, **maximum**, and more (e.g., **count**, **range**, etc.).
+- Applied to key performance indicators like **delivery time**, **quantity**, **unit price**, **sales revenue**, and **net profit**.
+
+![Descriptive Statistics](https://github.com/yassin-saleh/Sales-Analysis/blob/main/SALES%20ANALYSIS/Analysis/Descriptive%20Statistics.png)
+
 
 #### 🧪 T-Test Analysis:
 - Statistical comparison between two groups (e.g., different product categories or payment methods).
 - Used to test if there is a **significant difference** in metrics like revenue or profit.
 - Implemented using Excel’s `T.TEST()` function.
 
-📷 *Recommended: Add screenshot here*
+![T-Test](https://github.com/yassin-saleh/Sales-Analysis/blob/main/SALES%20ANALYSIS/Analysis/T-Test.png)
+
 
 ---
 
@@ -94,7 +96,7 @@ This sheet allows the user to **input new sales data** directly and dynamically 
 
 📌 **Note:** Make sure to enable macros for the submit functionality to work properly.
 
-📷 *Recommended: Add screenshot of the form here*
+![Sales Form](https://github.com/yassin-saleh/Sales-Analysis/blob/main/SALES%20ANALYSIS/Sales%20Form/Sales%20Form.png)
 
 ---
 
@@ -102,13 +104,7 @@ This sheet allows the user to **input new sales data** directly and dynamically 
 
 A visual dashboard for exploring data trends and performance.
 
-📷 *Recommended: Add screenshot here*
+![Dashboard](https://github.com/yassin-saleh/Sales-Analysis/blob/main/SALES%20ANALYSIS/DashBoard/DashBoard.png)
 
----
 
-## 📸 Screenshots
 
-To improve the repository, it's highly recommended to add screenshots from each major sheet. You can use the following Markdown syntax:
-
-```md
-![Dashboard Preview](images/dashboard.png)
